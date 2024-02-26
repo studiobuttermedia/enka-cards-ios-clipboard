@@ -18,8 +18,8 @@ Thanks to the developer of [Enka.Cards](https://github.com/JayXTQ/enka.cards), [
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/scr_1.jpg){width=50%}
+![Screenshot 1](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/scr_1.jpg)
 
-![Screenshot 2](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/scr_2.jpg){width=50%}
+![Screenshot 2](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/scr_2.jpg)
 
-![Screenshot 3](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/scr_3.jpg){width=50%}
+![Screenshot 3](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/scr_3.jpg)
