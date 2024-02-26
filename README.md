@@ -6,9 +6,7 @@ This shortcut allow you copy an Enka Cards Link to clipboard when you're on an E
 
 Preview:
 
-<video width="180" height="270" controls>
-  <source src="https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/preview.mp4" type="video/mp4">
-</video>
+![Preview](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/media/preview.mp4)
 
 [Click here](https://github.com/studiobuttermedia/enka-cards-ios-clipboard/raw/main/Get%20Enka%20Cards%20Link.shortcut) to import this shortcut to your Apple devices
 
